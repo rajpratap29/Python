@@ -10,3 +10,4 @@ print(states_of_india)
 states_of_india.extend(["Punjab", "Kerela"])
 print(states_of_india)
 
+
