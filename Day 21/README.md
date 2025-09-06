@@ -1,0 +1,1 @@
+# On day 21, I completed the snake game remaining functions from day 20
