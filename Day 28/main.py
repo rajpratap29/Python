@@ -14,7 +14,7 @@ reps = 0
 timer = None
 
 # Logic
-# 
+# Aproach
 
 
 
