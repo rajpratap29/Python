@@ -4,7 +4,7 @@ import random
 import smtplib
 
 MY_EMAIL = "glitchfox.in@gmail.com"
-MY_PASSWORD = "silljcriotvxsleq"
+MY_PASSWORD = "add your app password here"
 
 today = datetime.now()
 today_tuple = (today.month, today.day)
